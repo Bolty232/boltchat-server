@@ -24,7 +24,7 @@ This is a multithreaded and modular IRC-style chat server written in modern C++2
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Bolty232/-server.git](https://github.com/Bolty232/boltchat-server.git)
+git clone [https://github.com/Bolty232/boltchat-server.git](https://github.com/Bolty232/boltchat-server.git)
 cd boltchat-server
 
 # Create a build directory
